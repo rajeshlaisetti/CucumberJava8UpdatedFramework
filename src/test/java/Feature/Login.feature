@@ -1,6 +1,5 @@
 Feature: LoginFunctionality
   this feature deals with loggin to the application
-
   @WorkInProgress
   Scenario: Login -- Verify Whether the user able to loggin to the application
     Given I Navigate to the "http://executeautomation.com/demosite/Login.html" portal
