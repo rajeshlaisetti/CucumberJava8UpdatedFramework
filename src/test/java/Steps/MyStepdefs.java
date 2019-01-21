@@ -48,7 +48,6 @@ public class MyStepdefs implements En {
                 default:
                     System.out.println("User unable to perfome any action on the application");
             }
-
         });
 
     }
