@@ -35,8 +35,11 @@
            <version>1.2.5</version>
            <scope>test</scope>
        </dependency>
-
-
+       <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-chrome-driver</artifactId>
+            <version>3.8.1</version>
+        </dependency>
 
    </dependencies>
 
@@ -58,6 +61,9 @@
                <artifactId>maven-surefire-plugin</artifactId>
                <version>2.22.1</version>
                  <configuration>
+                        <systemPropertyVariables>
+                          <browser>chrome</browser>
+                        </systemPropertyVariables>
                         <includes>
                           <include>**/*Runner.java</include>
                         </includes>
