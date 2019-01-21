@@ -7,7 +7,7 @@ public class Base {
     WebDriver driver;
 
     public WebDriver getChromeBrowser() {
-        System.setProperty("webdriver.chrome.driver", "src/drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/src/drivers/chromedriver.exe");
         driver = new ChromeDriver();
         return driver;
     }
