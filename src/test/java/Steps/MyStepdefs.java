@@ -8,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
-
 public class MyStepdefs implements En {
     private WebDriver driver;
 
