@@ -81,21 +81,21 @@ formatter.match({
   "location": "MyStepdefs.java:24"
 });
 formatter.result({
-  "duration": 2907135102,
+  "duration": 2670722234,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.java:29"
 });
 formatter.result({
-  "duration": 19638306,
+  "duration": 15872708,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.java:31"
 });
 formatter.result({
-  "duration": 515969854,
+  "duration": 540647059,
   "status": "passed"
 });
 formatter.match({
@@ -108,7 +108,7 @@ formatter.match({
   "location": "MyStepdefs.java:39"
 });
 formatter.result({
-  "duration": 9943451,
+  "duration": 9244211,
   "status": "passed"
 });
 formatter.match({
@@ -121,7 +121,7 @@ formatter.match({
   "location": "MyStepdefs.java:39"
 });
 formatter.result({
-  "duration": 788068987,
+  "duration": 785376403,
   "status": "passed"
 });
 });

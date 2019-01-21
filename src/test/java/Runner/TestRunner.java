@@ -12,6 +12,7 @@ import org.junit.runner.RunWith;
         ,format = {"pretty", "html:target/site/cucumber-pretty"
                             , "json:target/cucumber.json"
                    }
+        ,monochrome = true
         ,tags = {"@WorkInProgress"}
 )
 public class TestRunner {
