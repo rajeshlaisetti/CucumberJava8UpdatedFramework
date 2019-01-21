@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2098077637,
+              "duration": 2907135102,
               "status": "passed"
             },
             "line": 6,
@@ -24,19 +24,19 @@
                   "offset": 19
                 }
               ],
-              "location": "MyStepdefs.java:23"
+              "location": "MyStepdefs.java:24"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 23571045,
+              "duration": 19638306,
               "status": "passed"
             },
             "line": 7,
             "name": "I enter the username and password",
             "match": {
-              "location": "MyStepdefs.java:28"
+              "location": "MyStepdefs.java:29"
             },
             "rows": [
               {
@@ -58,7 +58,7 @@
               {
                 "cells": [
                   "anitha",
-                  "anusha",
+                  "laisetti",
                   "ranitha@gmail.com"
                 ],
                 "line": 10
@@ -68,19 +68,19 @@
           },
           {
             "result": {
-              "duration": 849488899,
+              "duration": 515969854,
               "status": "passed"
             },
             "line": 11,
             "name": "I clicked on submit button",
             "match": {
-              "location": "MyStepdefs.java:30"
+              "location": "MyStepdefs.java:31"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 9934636,
+              "duration": 9943451,
               "status": "passed"
             },
             "line": 12,
@@ -92,13 +92,13 @@
                   "offset": 25
                 }
               ],
-              "location": "MyStepdefs.java:37"
+              "location": "MyStepdefs.java:39"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 892373843,
+              "duration": 788068987,
               "status": "passed"
             },
             "line": 13,
@@ -110,7 +110,7 @@
                   "offset": 25
                 }
               ],
-              "location": "MyStepdefs.java:37"
+              "location": "MyStepdefs.java:39"
             },
             "keyword": "And "
           }

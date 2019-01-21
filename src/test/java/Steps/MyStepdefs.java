@@ -13,8 +13,8 @@ public class MyStepdefs implements En {
     
     private WebDriver driver;
 
-    public MyStepdefs(Base base) {
-        this.driver=base.getChromeBrowser();
+    public MyStepdefs(Hook hook) {
+        this.driver=hook.getChromeBrowser();
 
         driver.manage().timeouts().pageLoadTimeout(60,TimeUnit.SECONDS);
         driver.manage().timeouts().setScriptTimeout(60, TimeUnit.SECONDS);
