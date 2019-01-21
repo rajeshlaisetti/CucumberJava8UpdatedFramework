@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3703cca6-8710-4fec-a4f3-85bc69eadc4c" name="Default" comment="Merge branch 'master' of github.com:rajeshlaisetti/CucumberJava8UpdatedFramework&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/Feature/Login.feature">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/Base.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/MyStepdefs.java" afterPath="$PROJECT_DIR$/src/test/java/Steps/MyStepdefs.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" afterPath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStepdefs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyStepdefs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Steps/MyStepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -57,10 +56,10 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Runner/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+                <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
               </folding>
             </state>
           </provider>
@@ -76,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hook.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Hook.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,8 +121,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Steps/Base.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Steps/Hook.java" />
         <option value="$PROJECT_DIR$/src/test/java/Steps/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Steps/Hook.java" />
       </list>
     </option>
   </component>
@@ -573,7 +572,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19119227" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3975085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3171008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44394112" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -636,7 +635,7 @@
           <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+            <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
           </folding>
         </state>
       </provider>
@@ -693,7 +692,7 @@
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+            <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
           </folding>
         </state>
       </provider>
@@ -750,7 +749,7 @@
           <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+            <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
           </folding>
         </state>
       </provider>
@@ -827,7 +826,7 @@
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+            <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
           </folding>
         </state>
       </provider>
@@ -864,7 +863,7 @@
           <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+            <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
           </folding>
         </state>
       </provider>
@@ -918,10 +917,10 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Runner/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1548064175876" expanded="true" signature="124:439" ph="@{...}" />
+            <marker date="1548067429480" expanded="true" signature="124:438" ph="@{...}" />
           </folding>
         </state>
       </provider>
@@ -934,20 +933,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hook.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/MyStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/MyStepdefs.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Steps/Hook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
