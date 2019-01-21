@@ -28,6 +28,7 @@ public class MyStepdefs implements En {
         And("^I enter the username and password$", this::accept);
 
         And("^I clicked on submit button$", () -> {
+            
             driver.findElement(By.name("UserName")).sendKeys("Rajesh");
             driver.findElement(By.name("Password")).sendKeys("varma");
             driver.findElement(By.name("Login")).submit();
