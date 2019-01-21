@@ -11,5 +11,4 @@ public class Base {
         driver = new ChromeDriver();
         return driver;
     }
-
 }
