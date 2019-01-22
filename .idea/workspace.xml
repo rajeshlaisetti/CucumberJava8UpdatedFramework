@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3703cca6-8710-4fec-a4f3-85bc69eadc4c" name="Default" comment="Merge branch 'master' of github.com:rajeshlaisetti/CucumberJava8UpdatedFramework&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/Feature/Login.feature">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Steps/Base.class" afterPath="" />
-    </list>
+    <list default="true" id="3703cca6-8710-4fec-a4f3-85bc69eadc4c" name="Default" comment="Merge branch 'master' of github.com:rajeshlaisetti/CucumberJava8UpdatedFramework&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/Feature/Login.feature" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
